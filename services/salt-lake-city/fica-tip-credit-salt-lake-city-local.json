@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credits - FICA Tip Credit",
+  "description": "Professional FICA Tip Credit services in Salt Lake City. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses.",
+  "url": "https://reclaimtaxcredits.com",
+  "telephone": "1-213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Salt Lake City"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Salt Lake City"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "FICA Tip Credit Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "FICA Tip Credit"
+        }
+      }
+    ]
+  }
+}
