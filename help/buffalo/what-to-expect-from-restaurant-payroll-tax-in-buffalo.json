@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect from restaurant payroll tax in Buffalo",
+  "description": "What to Expect from restaurant payroll tax in Buffalo\n\nWhen you choose Reclaim Tax Credits for restaurant payroll tax, here is what to expect:\n\nStep 1: Fica claim process — Our team guides you through",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Fica claim process",
+      "text": "Our team guides you through fica claim process for restaurant payroll tax in Buffalo."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Refund timeline",
+      "text": "Our team guides you through refund timeline for restaurant payroll tax in Buffalo."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Irs filing steps",
+      "text": "Our team guides you through irs filing steps for restaurant payroll tax in Buffalo."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Documentation review",
+      "text": "Our team guides you through documentation review for restaurant payroll tax in Buffalo."
+    }
+  ]
+}
