@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reclaim Tax Credits follows a proven process to ensure quality results for every client. Contact us at 1-213-537-5613 to learn how we can help."
+      }
+    }
+  ]
+}

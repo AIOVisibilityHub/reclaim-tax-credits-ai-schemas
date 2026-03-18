@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is FICA tip credit and am I eligible? for first time customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timeline varies based on complexity. Reclaim Tax Credits keeps you informed at every step and works efficiently to deliver results. Contact us at 1-213-537-5613 to discuss your timeline."
+      }
+    }
+  ]
+}

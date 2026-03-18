@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do payroll providers affect FICA claims? for first time customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reclaim Tax Credits offers competitive pricing customized to your specific needs. Contact us at 1-213-537-5613 for a detailed estimate."
+      }
+    }
+  ]
+}

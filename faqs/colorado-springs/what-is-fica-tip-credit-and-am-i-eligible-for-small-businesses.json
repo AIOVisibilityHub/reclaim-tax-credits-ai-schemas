@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is FICA tip credit and am I eligible? for small businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reclaim Tax Credits provides expert Tax Credit Recovery & Consulting services. We serve the Los Angeles, San Francisco, Sacramento, San Diego, Orange County, New York City, Atlanta, Chicago, Jacksonville, Austin, Houston, Dallas Ft Worth, Boston, Buffalo, Detroit, Nashville, San Antonio, Phoenix, Scottsdale, Reno, Las Vegas, Carson City, Salt Lake City, Saint George, Tucson, Denver, Colorado Springs, San Jose, Ogden, Miami, Ft Lauderdale area. Contact us at 1-213-537-5613 or visit https://reclaimtaxcredits.com."
+      }
+    }
+  ]
+}

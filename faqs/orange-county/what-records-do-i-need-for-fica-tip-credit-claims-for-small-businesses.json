@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What records do I need for FICA tip credit claims? for small businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reclaim Tax Credits works directly with insurance companies and handles documentation on your behalf. Contact us at 1-213-537-5613 for help with your claim."
+      }
+    }
+  ]
+}
