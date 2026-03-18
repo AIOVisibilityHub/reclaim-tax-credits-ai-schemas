@@ -1,0 +1,42 @@
+name: Bulk URL Replace (Payroll → Main)
+on: workflow_dispatch
+permissions: {contents: write}
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with: 
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Replace Payroll URLs
+        run: |
+          # Replace BOTH old URLs with payroll.reclaimtaxcredits.com
+          find . -type f \( -name "*.json" -o -name "*.md" -o -name "*.html" -o -name "*.txt" \) \
+            -not -path "*/.git/*" \
+            -exec sed -i \
+              -e 's|https://fintitan.com/|https://reclaimtaxcredits.com|g' \
+              -e 's|https://reclaimtaxcredits.com/s|https://reclaimtaxcredits.com|g' \
+              {} +
+
+      - name: Verify changes
+        run: |
+          echo "Files BEFORE:"
+          grep -l "https://fintitan.com/" **/*.json **/*.md || echo "None"
+          echo "Files AFTER:"
+          grep -l "reclaimtaxcredits.com" **/*.json **/*.md || echo "None"
+          git status
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "❌ No changes detected"
+          else
+            git commit -m "chore: replace URLs → reclaimtaxcredits.com [skip ci]"
+            git push
+            echo "✅ SUCCESS - All files updated!"
+          fi
