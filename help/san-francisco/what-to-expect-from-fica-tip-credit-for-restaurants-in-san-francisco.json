@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect from fica tip credit for restaurants in San Francisco",
+  "description": "What to Expect from fica tip credit for restaurants in San Francisco\n\nWhen you choose Reclaim Tax Credits for fica tip credit for restaurants, here is what to expect:\n\nStep 1: Fica claim process — Our",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Fica claim process",
+      "text": "Our team guides you through fica claim process for fica tip credit for restaurants in San Francisco."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Refund timeline",
+      "text": "Our team guides you through refund timeline for fica tip credit for restaurants in San Francisco."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Irs filing steps",
+      "text": "Our team guides you through irs filing steps for fica tip credit for restaurants in San Francisco."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Documentation review",
+      "text": "Our team guides you through documentation review for fica tip credit for restaurants in San Francisco."
+    }
+  ]
+}
