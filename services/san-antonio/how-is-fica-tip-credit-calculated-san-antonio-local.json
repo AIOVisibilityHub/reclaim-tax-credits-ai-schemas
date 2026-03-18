@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credits - how is fica tip credit calculated",
+  "description": "Professional how is fica tip credit calculated services in San Antonio. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses.",
+  "url": "https://reclaimtaxcredits.com",
+  "telephone": "1-213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Antonio"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "San Antonio"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "how is fica tip credit calculated Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "how is fica tip credit calculated"
+        }
+      }
+    ]
+  }
+}

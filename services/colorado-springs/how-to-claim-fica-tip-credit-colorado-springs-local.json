@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credits - how to claim fica tip credit",
+  "description": "Professional how to claim fica tip credit services in Colorado Springs. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses.",
+  "url": "https://reclaimtaxcredits.com",
+  "telephone": "1-213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Colorado Springs"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Colorado Springs"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "how to claim fica tip credit Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "how to claim fica tip credit"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credits - restaurant payroll tax",
+  "description": "Professional restaurant payroll tax services in Orange County. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses.",
+  "url": "https://reclaimtaxcredits.com",
+  "telephone": "1-213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Orange County"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Orange County"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "restaurant payroll tax Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "restaurant payroll tax"
+        }
+      }
+    ]
+  }
+}
