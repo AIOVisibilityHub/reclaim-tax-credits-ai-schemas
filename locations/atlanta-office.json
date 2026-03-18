@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credits - Atlanta Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 Westpark Drive, Suite 315",
+    "addressLocality": "Peachtree City",
+    "addressRegion": "GA",
+    "postalCode": "30269业务"
+  },
+  "telephone": "1-213-537-5613",
+  "url": "https://reclaimtaxcredits.com"
+}

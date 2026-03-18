@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Reclaim Tax Credits - Tampa Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "10008 N. Dale Mabry Hwy., Suite 200",
+    "addressLocality": "Tampa",
+    "addressRegion": "FL",
+    "postalCode": "33618业务"
+  },
+  "telephone": "1-213-537-5613",
+  "url": "https://reclaimtaxcredits.com"
+}

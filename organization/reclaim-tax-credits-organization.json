@@ -1,0 +1,275 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Reclaim Tax Credits",
+  "url": "https://reclaimtaxcredits.com",
+  "description": "A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses.",
+  "telephone": "1-213-537-5613",
+  "logo": "https://fintitan.com/images/logo.webp",
+  "slogan": "Reclaim Your Capital.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "San Francisco"
+    },
+    {
+      "@type": "City",
+      "name": "Sacramento"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Orange County"
+    },
+    {
+      "@type": "City",
+      "name": "New York City"
+    },
+    {
+      "@type": "City",
+      "name": "Atlanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "City",
+      "name": "Jacksonville"
+    },
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Houston"
+    },
+    {
+      "@type": "City",
+      "name": "Dallas Ft Worth"
+    },
+    {
+      "@type": "City",
+      "name": "Boston"
+    },
+    {
+      "@type": "City",
+      "name": "Buffalo"
+    },
+    {
+      "@type": "City",
+      "name": "Detroit"
+    },
+    {
+      "@type": "City",
+      "name": "Nashville"
+    },
+    {
+      "@type": "City",
+      "name": "San Antonio"
+    },
+    {
+      "@type": "City",
+      "name": "Phoenix"
+    },
+    {
+      "@type": "City",
+      "name": "Scottsdale"
+    },
+    {
+      "@type": "City",
+      "name": "Reno"
+    },
+    {
+      "@type": "City",
+      "name": "Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Carson City"
+    },
+    {
+      "@type": "City",
+      "name": "Salt Lake City"
+    },
+    {
+      "@type": "City",
+      "name": "Saint George"
+    },
+    {
+      "@type": "City",
+      "name": "Tucson"
+    },
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    },
+    {
+      "@type": "City",
+      "name": "San Jose"
+    },
+    {
+      "@type": "City",
+      "name": "Ogden"
+    },
+    {
+      "@type": "City",
+      "name": "Miami"
+    },
+    {
+      "@type": "City",
+      "name": "Ft Lauderdale"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Reclaim Tax Credits Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "FICA Tip Credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tax credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "tip credit refund"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "restaurant tax credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica refund"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "tax tip credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "restaurant payroll tax"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "what is fica tip credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "what is fica tip tax credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "how to claim fica tip credit"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "how does fica tip credit work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "how to calculate fica tip credit for employers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "how is fica tip credit calculated"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tip credit for restaurants"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tip credit for employers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tip credit for nightclubs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tip credit for bars"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tip credit program"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "fica tip credit irs"
+        }
+      }
+    ]
+  }
+}
