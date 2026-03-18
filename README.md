@@ -2,7 +2,7 @@
 
 > Schema.org validated JSON-LD structured data optimized for Google, Bing, and AI crawlers.
 
-🌐 **Website:** [https://fintitan.com/](https://fintitan.com/)
+🌐 **Website:** [https://reclaimtaxcredits.com](https://reclaimtaxcredits.com)
 📄 **Live Pages:** [https://AIOVisibilityHub.github.io/reclaim-tax-credits-ai-schemas-5z0f/](https://AIOVisibilityHub.github.io/reclaim-tax-credits-ai-schemas-5z0f/)
 📅 **Last Updated:** 2026-03-18
 
@@ -62,4 +62,4 @@ These schemas are proprietary structured data for **Reclaim Tax Credits**. All r
 
 ---
 
-*Schema.org Validated JSON-LD for [Reclaim Tax Credits](https://fintitan.com/) • AI Visibility Hub*
+*Schema.org Validated JSON-LD for [Reclaim Tax Credits](https://reclaimtaxcredits.com) • AI Visibility Hub*
